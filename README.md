@@ -78,5 +78,5 @@ Contributions are welcome! Feel free to submit pull requests with improvements, 
 This project is available for educational and research purposes. Ensure ethical use and follow data privacy guidelines.  
 
 ## Contact  
-For inquiries, contact: **touhidmahmud20gmail.com**  
+For inquiries, contact: [touhidmahmud20@gmail.com](mailto:touhidmahmud20@gmail.com)
 
